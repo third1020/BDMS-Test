@@ -12,6 +12,7 @@ npm run start:dev
 ```
 API จะทำงานที่ `http://localhost:3000`
 
+```bash
   // POST /tasks - สร้างงานใหม่
 
   // GET /tasks - ดูรายการงานทั้งหมด
@@ -35,7 +36,7 @@ API จะทำงานที่ `http://localhost:3000`
   // PATCH /tasks/:id/in-progress - เปลี่ยนสถานะเป็นกำลังดำเนินการ
 
   // PATCH /tasks/:id/pending - เปลี่ยนสถานะเป็นรอดำเนินการ
-
+```
 
 ติดตั้ง Mobile App(react-native)
 ```bash
