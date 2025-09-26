@@ -4,7 +4,7 @@
 
 ติดตั้ง Backend (API Server)
 
-To do list (RESTFUL API)
+To do list (Restful API)
 ```bash
 cd backend
 npm install
@@ -42,7 +42,7 @@ API จะทำงานที่ `http://localhost:3000`
 ```bash
 cd react-native
 npm install
-npx start
+npm start
 ```
 สแกน QR Code ด้วยแอป Expo Go หรือรันบน Simulator
 
